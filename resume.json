@@ -1,0 +1,332 @@
+{
+
+  "basics": {
+    "name": "Antoine Barbaroux",
+    "label": "Developer",
+    "picture": "http://api.netblast.me/files?_id=59307207eaee8833f12c8ccc",
+    "email": "ubarbaxor@gmail.com",
+    "phone": "(+336) 879 600 79",
+    "summary": "All-around code freak with a craving for learning",
+    "location": {
+      "address": "133 rue Damremont",
+      "postalCode": "75018",
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": "France"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "ubarbaxor",
+      "url": "http://twitter.com/ubarbaxor"
+    },{
+      "network": "Github",
+      "username": "ubarbaxor",
+      "url": "http://github.com/ubarbaxor"
+    },{
+      "network": "Github",
+      "username": "icareus",
+      "url": "http://github.com/icareus"
+    }]
+  },
+  "work": [{
+    "company": "self-employed",
+    "position": "Freelance",
+    "startDate": "2017-01-01",
+    "summary": "I'm offering my services as a freelance dev since the beginning of this year.",
+    "highlights": [
+      "Frontend",
+      "Backend",
+      "Full-Stack",
+      "Web",
+      "Javascript",
+      "CMS"
+    ]
+  },{
+    "company": "LaFinBox",
+    "position": "Consultant",
+    "website": "https://www.lafinbox.fr/",
+    "startDate": "2016-09-01",
+    "endDate": "2017-01-01",
+    "summary": "Full-Stack & Hybrid mobile app development",
+    "highlights": [
+      "react",
+      "flux",
+      "node",
+      "express",
+      "webpack",
+      "es6",
+      "async",
+      "git",
+      "osx",
+      "cordova",
+      "mobile",
+      "agile"
+    ]
+  },{
+    "company": "RedPelicans",
+    "position": "Full-Stack JS expert",
+    "website": "http://www.redpelicans.com/",
+    "startDate": "2016-07-01",
+    "endDate": "2017-01-01",
+    "summary": "3 month long SPA / Full-Stack dev training along with contribution to internal project, followed by consulting as a JS expert.",
+    "highlights": [
+      "CSS3",
+      "Express",
+      "Koa.js",
+      "HTML5",
+      "react",
+      "redux",
+      "node",
+      "webpack",
+      "promises",
+      "es6",
+      "async",
+      "git",
+      "linux"
+    ]
+  },{
+    "company": "Mr Oscar",
+    "position": "CTO",
+    "website": "No longer exists /:",
+    "startDate": "2016-02-15",
+    "endDate": "2016-04-15",
+    "summary": "Rework and adaptation of a proprietay template, and transition of the startup's website from a stack of loosely coupled webservices into an open-source stack",
+    "highlights": [
+      "Weebly",
+      "Typeform",
+      "Google Docs",
+      "HTML",
+      "CSS",
+      "Python",
+      "Django",
+      "Gunicorn",
+      "Linux",
+      "System administration"
+    ]
+  },{
+    "company": "BEORN Technologies",
+    "position": "Intern",
+    "website": "http://www.beorn-technologies.com/",
+    "startDate": "2015-10-01",
+    "endDate": "2016-01-01",
+    "summary": "Java PoC, Modernization of the development environment, deployment of Dockers for internal services, transition of CI build system from Maven to Ant/Ivy",
+    "highlights": [
+      "agile",
+      "Java",
+      "Maven",
+      "Ant",
+      "Ivy",
+      "Jenkins",
+      "Docker",
+      "Salt",
+      "Gradle",
+      "Git",
+      "Liferay",
+      "Thrift",
+      "Vert.X"
+    ]
+  },{
+    "company": "SEIYA Records",
+    "position": "IT Support / Digital Marketting Management",
+    "website": "http://www.seiyarecords.com/",
+    "startDate": "2013-07-01",
+    "endDate": "2015-06-01",
+    "summary": "Occasional technical support, digital communication consulting and audit",
+    "highlights": [
+      "hardware",
+      "maintenance",
+      "SEO",
+      "social networking",
+      "Communication strategy",
+      "administration"
+    ]
+  }],
+  "volunteer": [{
+    "organization": "Les Irréductibles",
+    "position": "Volunteer Companion",
+    "website": "https://www.facebook.com/Les-Irr%C3%A9ductibles-Briand-115762461814202/",
+    "startDate": "2016-07-01",
+    "endDate": "2016-07-15",
+    "summary": "Accompanied the choir that sang the National Anthem during 2016's national day in Paris",
+    "highlights": [
+      "Accompanied and handled logistics in a group of 100 highschoolers",
+      "Met then-president François Hollande"
+    ]
+  }],
+  "education": [{
+    "institution": "HEC",
+    "area": "Digital Entrepreneurship",
+    "studyType": "Certificate",
+    "startDate": "2017-04-14",
+    "endDate": "2017-05-16",
+    "ranking": "2nd",
+    "courses": [
+      "Design Thinking",
+      "Marketing strategy",
+      "Business strategy",
+      "Social Media Marketting",
+      "Ergonomy",
+      "Acquisition & SEO"
+    ]
+  },{
+    "institution": "42",
+    "area": "Digital Systems Architecture",
+    "studyType": "Projet-oriented, teacher-free",
+    "startDate": "2013-07-01",
+    "level": "9.05",
+    "courses": [
+      "Unix",
+      "Web",
+      "Adaptation & Creativity",
+      "Algorithms & AI",
+      "Databases & Data",
+      "Functionnal programming",
+      "Graphics",
+      "Group & Interpersonnal relationships",
+      "Imperative programming",
+      "Networks & System Administration",
+      "Object-Oriented Programming",
+      "Organization",
+      "Parallel computing",
+      "Rigor",
+      "Security",
+      "Technology Integration"
+    ]
+  },{
+    "institution": "Universite de Nice/Sophia-Antipolis",
+    "area": "Networks & Telecommunication",
+    "studyType": "DUT",
+    "startDate": "2012-09-01",
+    "endDate": "2013-07-01",
+    "courses": [
+      "Communication Protocols",
+      "Signal Processing",
+      "Electronics",
+      "Algorithms",
+      "Communication",
+      "English",
+      "Networks Administration",
+      "Unix systems",
+      "Windows systems"
+    ]
+  },{
+    "institution": "Universite de Nice/Sophia-Antipolis",
+    "area": "Medicine",
+    "studyType": "University",
+    "startDate": "2011-09-01",
+    "endDate": "2013-07-01",
+    "courses": [
+      "Histology",
+      "Organic Chemistry",
+      "Quantum Physics",
+      "Cellular Biology",
+      "Pharmaceutics"
+    ]
+  },{
+    "institution": "Lycée International de Valbonne/Sophia-Antipolis",
+    "area": "S / ES",
+    "studyType": "Highschool",
+    "startDate": "2007-09-01",
+    "endDate": "2011-07-01",
+    "courses": [
+      "2de Générale option économie",
+      "1re S SVT",
+      "Tle S SVT",
+      "Tle ES option Anglais"
+    ]
+  }],
+  "awards": [{
+    "title": "Major League Hacking, jury's selection",
+    "date": "2015-01-01",
+    "awarder": "Thalmic Labs",
+    "summary": "Team earned jury's prize for developing a robotic arm controlled via a myoelectric armband."
+  }],
+  "publications": [{
+    "name": "CVE-2013-5163",
+    "publisher": "Apple",
+    "releaseDate": "2013-08-15",
+    "website": "https://support.apple.com/en-us/HT202832",
+    "summary": "Found a vulnerability affecting Mac OS X's dscl command, enabling a privilege escalation exploit through bypassing directory ownership."
+  }],
+  "skills": [{
+    "name": "Front-End Web Development",
+    "level": "Proficient",
+    "keywords": [
+      "HTML5",
+      "CSS3",
+      "Javascript",
+      "React",
+      "Redux",
+      "Flux",
+      "Polymer"
+    ]
+  },{
+    "name": "Back-End Web Development",
+    "level": "Expert",
+    "keywords": [
+      "Javascript",
+      "Express",
+      "Koa",
+      "MongoDB",
+      "Python",
+      "Flask",
+      "SQL"
+    ]
+  },{
+    "name": "Programming",
+    "keywords": [
+      "Python",
+      "C",
+      "C++",
+      "Javascript",
+      "PHP5",
+      "Functionnal",
+      "Reactive"
+    ]
+  }],
+  "languages": [{
+    "name": "French",
+    "level": "Native speaker"
+  },{
+    "name": "English",
+    "level": "Fluent"
+  },{
+    "name": "Spanish",
+    "level": "Proficient"
+  }],
+  "interests": [{
+    "name": "Travelling",
+    "keywords": [
+      "Tropics",
+      "Asia",
+      "Arctic",
+      "Finland",
+      "Northern Africa",
+      "Morocco"
+    ]
+  },{
+    "name": "Nautical sports",
+    "keywords": [
+      "Catamaran",
+      "Windsurf",
+      "Wakeboard",
+      "Scuba",
+      "Diving"
+    ]
+  },{
+    "name": "Winter sports",
+    "keywords": [
+      "Snowboarding",
+      "Skiing",
+      "Snowmen"
+    ]
+  },{
+    "name": "Music",
+    "keywords": [
+      "Guitar",
+      "Trumpet",
+      "Saxophone",
+      "Piano"
+    ]
+  }]
+}
