@@ -29,10 +29,31 @@
     }]
   },
   "work": [{
+    "company": "Earthcube",
+    "position": "Software engineer",
+    "startDate": "2017-07-28",
+    "summary": "Building a platform & a data/ML pipeline for satellite imagery processing",
+    "highlights": [
+      "Frontend",
+      "Backend",
+      "Full-Stack",
+      "Web",
+      "Javascript",
+      "ML",
+      "Node.js",
+      "Python",
+      "Keras",
+      "TensorFlow",
+      "MongoDB",
+      "Redis",
+      "GIS",
+      "Geospatial"
+    ]
+  },{
     "company": "self-employed",
     "position": "Freelance",
     "startDate": "2017-01-01",
-    "summary": "I'm offering my services as a freelance dev since the beginning of this year.",
+    "summary": "I'm offering my services as a freelance consultant since the beginning of last year.",
     "highlights": [
       "Frontend",
       "Backend",
