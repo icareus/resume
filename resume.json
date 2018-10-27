@@ -31,7 +31,8 @@
   "work": [{
     "company": "Earthcube",
     "position": "Software engineer",
-    "startDate": "2017-07-28",
+    "startDate": "2017-07-20",
+    "endDate": "2018-07-05",
     "summary": "Building a platform & a data/ML pipeline for satellite imagery processing",
     "highlights": [
       "Frontend",

@@ -1,4 +1,4 @@
-from node:9-alpine
+from node:latest
 
 copy resume.json .
 
