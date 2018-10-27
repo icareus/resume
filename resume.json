@@ -271,16 +271,15 @@
     "summary": "Found a vulnerability affecting Mac OS X's dscl command, enabling a privilege escalation exploit through bypassing directory ownership."
   }],
   "skills": [{
-    "name": "Front-End Web Development",
-    "level": "Proficient",
+    "name": "Project Management",
+    "level": "Novice",
     "keywords": [
-      "HTML5",
-      "CSS3",
-      "Javascript",
-      "React",
-      "Redux",
-      "Flux",
-      "Polymer"
+      "Screening",
+      "Recruitment",
+      "Interviewing",
+      "Trello",
+      "Slack",
+      "GitHub"
     ]
   },{
     "name": "Back-End Web Development",
@@ -295,16 +294,19 @@
       "SQL"
     ]
   },{
-    "name": "Project Management",
-    "level": "Novice",
+    "name": "Front-End Web Development",
+    "level": "Proficient",
     "keywords": [
-      "Trello",
-      "Slack",
-      "Git",
-      "GitHub"
+      "HTML5",
+      "CSS3",
+      "Javascript",
+      "React",
+      "Redux",
+      "Flux",
+      "Polymer"
     ]
   },{
-    "name": "Programming",
+    "name": "Generic Programming",
     "level": "Expert",
     "keywords": [
       "Python",
