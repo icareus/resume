@@ -295,7 +295,17 @@
       "SQL"
     ]
   },{
+    "name": "Project Management",
+    "level": "Novice",
+    "keywords": [
+      "Trello",
+      "Slack",
+      "Git",
+      "GitHub"
+    ]
+  },{
     "name": "Programming",
+    "level": "Expert",
     "keywords": [
       "Python",
       "C",
@@ -303,7 +313,9 @@
       "Javascript",
       "PHP5",
       "Functionnal",
-      "Reactive"
+      "Reactive",
+      "Version Control",
+      "Git"
     ]
   }],
   "languages": [{
