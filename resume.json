@@ -3,10 +3,10 @@
   "basics": {
     "name": "Antoine Barbaroux",
     "label": "Developer",
-    "picture": "http://api.netblast.me/files?_id=59307207eaee8833f12c8ccc",
+    "picture": "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/46147273_2085892934835192_7178742904154750976_n.jpg?_nc_cat=107&_nc_ht=scontent-cdg2-1.xx&oh=d6489bb139a7100791e956ee43985d9d&oe=5C67751D",
     "email": "ubarbaxor@gmail.com",
     "phone": "(+336) 879 600 79",
-    "summary": "All-around code freak with a craving for learning",
+    "summary": "Curious, polyvalent and friendly. I like motorcycling, photography & the outdoors.",
     "location": {
       "address": "133 rue Damremont",
       "postalCode": "75018",
@@ -15,15 +15,15 @@
       "region": "France"
     },
     "profiles": [{
-      "network": "Twitter",
+      "name": "Twitter",
       "username": "ubarbaxor",
       "url": "http://twitter.com/ubarbaxor"
     },{
-      "network": "Github",
+      "name": "Github",
       "username": "ubarbaxor",
       "url": "http://github.com/ubarbaxor"
     },{
-      "network": "Github",
+      "name": "Github",
       "username": "icareus",
       "url": "http://github.com/icareus"
     }]
@@ -162,6 +162,19 @@
       "Communication strategy",
       "administration"
     ]
+  },{
+    "company": "The Grand Hotel Cannes",
+    "position": "Valet / Receptionnist",
+    "website": "https://www.grand-hotel-cannes.com/en/",
+    "startDate": "2011-07-01",
+    "endDate": "2011-08-01",
+    "summary": "Valet, bellboy, amenities & touristic advice",
+    "highlights": [
+      "Luxury",
+      "International",
+      "Valet Parking",
+      "Specific enquiries"
+    ]
   }],
   "volunteer": [{
     "organization": "Les Irréductibles",
@@ -271,19 +284,8 @@
     "summary": "Found a vulnerability affecting Mac OS X's dscl command, enabling a privilege escalation exploit through bypassing directory ownership."
   }],
   "skills": [{
-    "name": "Project Management",
-    "level": "Novice",
-    "keywords": [
-      "Screening",
-      "Recruitment",
-      "Interviewing",
-      "Trello",
-      "Slack",
-      "GitHub"
-    ]
-  },{
     "name": "Back-End Web Development",
-    "level": "Expert",
+    "level": "Master",
     "keywords": [
       "Javascript",
       "Express",
@@ -295,7 +297,7 @@
     ]
   },{
     "name": "Front-End Web Development",
-    "level": "Proficient",
+    "level": "Advanced",
     "keywords": [
       "HTML5",
       "CSS3",
@@ -307,7 +309,7 @@
     ]
   },{
     "name": "Generic Programming",
-    "level": "Expert",
+    "level": "Advanced",
     "keywords": [
       "Python",
       "C",
@@ -319,26 +321,62 @@
       "Version Control",
       "Git"
     ]
+  },{
+    "name": "System & Networks administration",
+    "level": "Intermediate",
+    "keywords": [
+      "Linux",
+      "Windows",
+      "Mac OS X",
+      "TCP/IP",
+      "DHCP",
+      "Wi-Fi",
+      "Routing"
+    ]
+  },{
+    "name": "Project and Team Management",
+    "level": "Beginner",
+    "keywords": [
+      "Screening",
+      "Recruitment",
+      "Interviewing",
+      "Trello",
+      "Slack",
+      "GitHub"
+    ]
   }],
   "languages": [{
-    "name": "French",
-    "level": "Native speaker"
+    "language": "French",
+    "fluency": "Native speaker"
   },{
-    "name": "English",
-    "level": "Fluent"
+    "language": "English",
+    "fluency": "Fluent"
   },{
-    "name": "Spanish",
-    "level": "Proficient"
+    "language": "Spanish",
+    "fluency": "Intermediate"
   }],
   "interests": [{
-    "name": "Travelling",
+    "name": "Photography",
     "keywords": [
-      "Tropics",
-      "Asia",
-      "Arctic",
-      "Finland",
-      "Northern Africa",
-      "Morocco"
+      "Canon EOS70D",
+      "Portraits",
+      "Travel",
+      "Skies"
+    ]
+  },{
+    "name": "Motorcycling",
+    "keywords": [
+      "Mechanics",
+      "Daily Commuting",
+      "Long distance Travelling"
+    ]
+  },{
+    "name": "Outdoors",
+    "keywords": [
+      "Trekking",
+      "Slackline",
+      "Highline",
+      "Camping"
     ]
   },{
     "name": "Nautical sports",
@@ -350,6 +388,14 @@
       "Diving"
     ]
   },{
+    "name": "Music",
+    "keywords": [
+      "Guitar",
+      "Trumpet",
+      "Saxophone",
+      "Piano"
+    ]
+  },{
     "name": "Winter sports",
     "keywords": [
       "Snowboarding",
@@ -357,12 +403,14 @@
       "Snowmen"
     ]
   },{
-    "name": "Music",
+    "name": "Travelling",
     "keywords": [
-      "Guitar",
-      "Trumpet",
-      "Saxophone",
-      "Piano"
+      "Tropics",
+      "Asia",
+      "Arctic",
+      "Finland",
+      "Northern Africa",
+      "Morocco"
     ]
   }]
 }
